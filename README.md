@@ -1,4 +1,4 @@
-# V-ViPSAM : isual Prompting for Volumetric Medical Image Segmentation Using Segment Anything Model
+# V-ViPSAM : Visual Prompting for Volumetric Medical Image Segmentation Using Segment Anything Model
 
 The official source code of "V-ViPSAM : isual Prompting for Volumetric Medical Image Segmentation Using Segment Anything Model".
 
