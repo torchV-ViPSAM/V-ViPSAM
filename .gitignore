@@ -16,7 +16,6 @@ checkpoints/
 weights/
 
 # 데이터셋
-data/
 datasets/
 
 # 결과물 / 로그
